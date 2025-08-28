@@ -1,5 +1,6 @@
 
-<h1 align="center"><b>Buenas, soy Mark Ocampo  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Mark Ocampo  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 ### 🚀 Digital Marketing & Tech 👨‍💻
 
@@ -13,15 +14,13 @@
 
 
 
+## About me
 
-
-## Sobre mi
-
-- 🎓 Estudiante de Marketing Digital con mentalidad técnica
-- 💻 Apasionado por el hacking ético, el desarrollo app + web y la IA
-- 📚 Actualmente aprendiendo ciberseguridad de forma autodidacta, preparándome para --> eJPT
-- 🚀 No busco solo ideas bonitas, sino soluciones a problemas reales
-- 🛠️ Trabajo en mi camino para ser una mente híbrida entre el marketing, la tecnología y el emprendimiento
+- 🎓 Digital Marketing Student
+- 💻 Passionate about ethical hacking, software development and AI
+- 🥷 Currently self-taught cybersecurity, preparing for --> eJPT
+- 💡 I'm not just looking for pretty ideas, but solutions to digital problems
+- 🚀 I work daily on my path to becoming a hybrid mind between marketing, technology
 <br>
 
 
