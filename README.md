@@ -20,7 +20,7 @@
 - 💻 Passionate about ethical hacking, software development and AI
 - 🥷 Currently self-taught cybersecurity, preparing for --> eJPT
 - 💡 I'm not just looking for pretty ideas, but solutions to digital problems
-- 🚀 I work daily on my path to becoming a hybrid mind between marketing, technology
+- 🚀 I work daily on my path to becoming a hybrid mind between development and marketing
 <br>
 
 
