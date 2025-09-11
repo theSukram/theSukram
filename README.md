@@ -4,7 +4,7 @@
 ⚡ I'm currently a **Digital Marketing student**, combining my studies with a **deep interest in technology** ⚡
 
 I'm self-taught in cybersecurity and am currently preparing for the **eJPT (Junior Penetration Tester)**, while constantly exploring new tools and challenges.
-I'm passionate about: *Software Development | Ethical Hacking | Artificial Intelligence*
+I'm passionate about: *Software Development | Ethical Hacking | Artificial Intelligence* <img align='right' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRmNXBlOWhpd2FhbjlkazR2NnZqNWdqbTQ5MnJtZGRydXoxZmcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OODLwnbPhncJiqRXvI/giphy.gif' width='200'>
 
 
 ---
@@ -35,5 +35,4 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-ocampo-ribas/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theSukram)
-
 
