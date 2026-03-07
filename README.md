@@ -1,9 +1,9 @@
 <h1><b>Hi, I'm Mark Ocampo  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-⚡ I'm currently a **Digital Marketing student**, combining my studies with a **deep interest in technology** ⚡
+I'm currently a **Digital Marketing student**, combining my studies with a **deep interest in technology**
 
-I'm passionate about: *Software Development + AI and Ethical Hacking* <img align='right' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRmNXBlOWhpd2FhbjlkazR2NnZqNWdqbTQ5MnJtZGRydXoxZmcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OODLwnbPhncJiqRXvI/giphy.gif' width='200'>
+I'm passionate about: *Software Development + AI* <img align='right' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRmNXBlOWhpd2FhbjlkazR2NnZqNWdqbTQ5MnJtZGRydXoxZmcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OODLwnbPhncJiqRXvI/giphy.gif' width='200'>
 
 
 ---
