@@ -7,7 +7,7 @@ My goal here is simple: learn by building, document the process, and gradually t
 
 Right now, I'm focused on Python, web fundamentals, Linux, Bash, and the logic behind digital products and software systems.
 
-I also have a background in cybersecurity and Linux fundamentals, which adds an analytical and technical layer to the way I approach technology. <img align='right' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRmNXBlOWhpd2FhbjlkazR2NnZqNWdqbTQ5MnJtZGRydXoxZmcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OODLwnbPhncJiqRXvI/giphy.gif' width='200'>
+I also have a background in cybersecurity and Linux fundamentals, which adds an analytical and technical layer to the way I approach technology. 
 
 
 ---
@@ -44,7 +44,8 @@ I also have a background in cybersecurity and Linux fundamentals, which adds an 
 
 ## 🛸 **Let's Connect!**
 
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
+I'm especially interested in software development, AI, digital products, and technical learning.
+You can also find me on LinkedIn, where I share more about my broader profile and professional journey.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-ocampo-ribas/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theSukram)
