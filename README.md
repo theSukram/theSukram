@@ -1,9 +1,13 @@
 <h1><b>Hi, I'm Mark Ocampo  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-I'm currently a **Digital Marketing student**, combining my studies with a **deep interest in technology**
+I'm currently a Marketing & Advertising student, building a stronger technical profile through software development, AI, and hands-on experimentation.
 
-I'm passionate about: *Software Development + AI* <img align='right' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRmNXBlOWhpd2FhbjlkazR2NnZqNWdqbTQ5MnJtZGRydXoxZmcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OODLwnbPhncJiqRXvI/giphy.gif' width='200'>
+My goal here is simple: learn by building, document the process, and gradually turn curiosity into real projects.
+
+Right now, I'm focused on Python, web fundamentals, Linux, Bash, and the logic behind digital products and software systems.
+
+I also have a background in cybersecurity and Linux fundamentals, which adds an analytical and technical layer to the way I approach technology. <img align='right' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRmNXBlOWhpd2FhbjlkazR2NnZqNWdqbTQ5MnJtZGRydXoxZmcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OODLwnbPhncJiqRXvI/giphy.gif' width='200'>
 
 
 ---
@@ -24,6 +28,16 @@ I'm passionate about: *Software Development + AI* <img align='right' src='https:
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Notion](https://skillicons.dev/icons?i=notion)
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
+
+
+---
+
+
+## **What you'll find here**
+- *Personal projects*
+- *Learning experiments*
+- *Technical notes and documentation*
+- *Work-in-progress builds around software, automation, and AI*
 
 
 ---
